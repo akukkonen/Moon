@@ -6,7 +6,7 @@ date: 2018-11-27
 comments: false
 ---
 
-[my face]: https://github.com/akukkonen/akukkonen.github.io/blob/master/headshot.png
+[my face]: https://github.com/akukkonen/akukkonen.github.io/blob/master/headshot.png?
 
 ## Hi there!
 
