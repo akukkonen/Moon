@@ -1,37 +1,22 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags:   
+date: 2018-11-27
 comments: false
 ---
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+I'm a 5th year student at Tampere University of Technology, majoring in Information and Knowledge Management. I'm very interested in visual design and would love to work in that field in the future. I have a fair amount of experience from personal projects and I have done plenty of design work (posters, Facebook event cover photos, brochures) for different student organisations and events at my university. I have also designed a couple of UI prototypes for some software engineering  courses during my studies. I have also completed a Udemy online course about UI design, which further indicates my interest in the subject.
 
-## Preview
+My tools of the trade are:
+* Adobe Photoshop
+* Adobe XD
+* Adobe Indesign
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
+    https://github.com/akukkonen/akukkonen.github.io/blob/master/headshot.png
+    {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
