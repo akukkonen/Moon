@@ -1,7 +1,7 @@
 # Site
 title:              Arttu Kukkonen - portfolio
-bio:                'The portfolio of Arttu Kukkonen'
-description:        I am an aspiring UI and UX designer who is currently studying in Tampere University of Technology. This is my portfolio."
+bio:                'I am an aspiring UI and UX designer who is currently studying in Tampere University of Technology. This is my portfolio."
+description:        'The portfolio of Arttu Kukkonen'
 reading_time:       false
 
 logo:               'assets/img/logo.png'
