@@ -7,6 +7,7 @@ project: true
 tag:
 - mock up app
 - adobe xd
+- adobe photoshop
 comments: false
 ---
 
