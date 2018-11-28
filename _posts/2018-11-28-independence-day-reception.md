@@ -5,7 +5,8 @@ date:   2018-11-28
 excerpt: "Posters for my guild's Finnish Independence Day event."
 project: true
 tag:
-- poster 
+- poster
+- adobe photoshop
 comments: false
 ---
 
