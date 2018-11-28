@@ -7,6 +7,7 @@ project: true
 tag:
 - facebook cover photo
 - program
+- adobe photoshop
 comments: false
 ---
 
