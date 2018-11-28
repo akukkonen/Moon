@@ -11,7 +11,7 @@ tag:
 comments: false
 ---
 
-<center>I made these graphics to promote my guild's 18th anniversary gala. The graphics included the Facebook event cover photo and a handheld program that for the guests. Made with Adobe Photoshop.</center>
+<center>I made these graphics to promote my guild's 18th anniversary gala. The graphics included the Facebook event cover photo and a handheld program for the guests. Made with Adobe Photoshop.</center>
 
 {% capture images %}
 	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Manager_18_anniversary_gala_poster.png
