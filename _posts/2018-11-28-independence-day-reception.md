@@ -16,8 +16,8 @@ comments: false
 ## Preview
 
 {% capture images %}
-	https://github.com/akukkonen/akukkonen.github.io/blob/master/Independence_day_reception_2016.png?raw=true
-	https://github.com/akukkonen/akukkonen.github.io/blob/master/Independence_day_reception_2017.png?raw=true
+	https://github.com/akukkonen/akukkonen.github.io/blob/master/Independence_day_reception_2016.png
+	https://github.com/akukkonen/akukkonen.github.io/blob/master/Independence_day_reception_2017.png
 {% endcapture %}
 {% include gallery images=images caption="Independence Day Reception posters" cols=2 %}
 
