@@ -17,8 +17,7 @@ comments: false
 	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Manager_18_anniversary_gala_poster.png
     https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Manager_18_anniversary_gala_program.png
     https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Manager_18_anniversary_gala_program2.png
-    https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Manager_18_anniversary_gala_program3.png
 {% endcapture %}
-{% include gallery images=images caption="Man@ger's 18th anniversary gala graphics" cols=4 %}   
+{% include gallery images=images caption="Man@ger's 18th anniversary gala graphics" cols=3 %}   
 
 ---
