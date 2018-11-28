@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Case Fakto
+title:  Man@ger's 18th anniversary gala
 date:   2018-11-28
 excerpt: "Graphics for my guild's 18th anniversary gala."
 project: true
