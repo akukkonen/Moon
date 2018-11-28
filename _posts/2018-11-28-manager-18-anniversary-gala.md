@@ -15,6 +15,6 @@ comments: false
 	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Manager_18_anniversary_gala_poster.png
 	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Manager_18_anniversary_gala_program.pdf
 {% endcapture %}
-{% include gallery images=images caption="Case Fakto posters" cols=2 %}   
+{% include gallery images=images caption="Man@ger's 18th anniversary gala graphics" cols=2 %}   
 
 ---
