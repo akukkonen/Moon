@@ -15,6 +15,6 @@ comments: false
 	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Independence_day_reception_2016.png
 	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Independence_day_reception_2017.png
 {% endcapture %}
-{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}   
+{% include gallery images=images caption="Independence day reception posters" cols=2 %}   
 
 ---
