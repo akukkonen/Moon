@@ -42,4 +42,3 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Parking space search app" cols=3 %}   
 
----
