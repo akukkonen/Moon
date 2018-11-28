@@ -18,7 +18,9 @@ comments: false
 	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear3.png
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear4.png
 {% endcapture %}
-{% include gallery images=images caption="White tie renting app" cols=4 %}  
+{% include gallery images=images caption="White tie renting app" cols=4 %}
+
+---
 
 <center>One of the UIs I made for the course Introduction to Software Engineering. In the app users can search for tram schedules. Made with Adobe Photoshop.</center>
 
@@ -28,6 +30,8 @@ comments: false
 	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Metro_UI_3.png
 {% endcapture %}
 {% include gallery images=images caption="Tram schedule app" cols=3 %}   
+
+---
 
 <center>Another UI I made for the course Introduction to Software Engineering. In the app users can search for parking places on different campuses located in Tampere. Made with Adobe Photoshop.</center>
 
