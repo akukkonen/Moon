@@ -18,5 +18,6 @@ My tools of the trade are:
 * Adobe Indesign
 
 {% capture images %}
-    #    {% endcapture %}
-{% include gallery images=images caption="" cols=1 %}
+	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/headshot.png
+{% endcapture %}
+{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=1 %}   
