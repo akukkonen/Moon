@@ -2,11 +2,9 @@
 layout: page
 title: About me
 tags:   
-date: 2018-11-27
+date: 2018-11-29
 comments: false
 ---
-
-[my face]: https://github.com/akukkonen/akukkonen.github.io/blob/master/headshot2.png
 
 ## Hi there!
 
@@ -22,4 +20,10 @@ My tools of the trade are:
 * Adobe XD
 * Adobe Indesign
 
+Check out my CV for further information:
+
+{% capture images %}
+	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/CV.png
+{% endcapture %}
+{% include gallery images=images caption="" cols=1 %}   
 
