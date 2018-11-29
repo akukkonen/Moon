@@ -19,7 +19,7 @@ comments: false
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear4.png
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear5.png
 {% endcapture %}
-{% include gallery images=images caption="White tie renting app" cols=4 %}
+{% include gallery images=images caption="White tie renting app" cols=5 %}
 
 ---
 
