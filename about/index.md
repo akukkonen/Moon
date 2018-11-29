@@ -26,3 +26,4 @@ You can check out my CV for further information:
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}   
 
+[You can also access the CV here](https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/CV.png)
