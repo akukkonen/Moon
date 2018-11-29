@@ -4,7 +4,7 @@ bio:                I am an aspiring UI and UX designer who is currently studyin
 description:        The portfolio of Arttu Kukkonen
 reading_time:       false
 
-#logo:               'assets/img/logo3.png'
+logo:               'assets/img/logo3.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
