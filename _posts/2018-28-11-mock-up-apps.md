@@ -15,11 +15,14 @@ comments: false
 {% capture images %}
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear.png
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear2.png
+{% endcapture %}
+{% include gallery images=images caption="White tie renting app" cols=2 %}
+{% capture images %}
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear3.png
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear4.png
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear5.png
 {% endcapture %}
-{% include gallery images=images caption="White tie renting app" cols=5 %}
+{% include gallery images=images caption="White tie renting app" cols=3 %}
 
 ---
 
