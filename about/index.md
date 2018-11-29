@@ -20,8 +20,7 @@ My tools of the trade are:
 * Adobe XD
 * Adobe Indesign
 
-Check out my CV for further information:
-
+You can check out my CV for further information:
 {% capture images %}
 	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/CV.png
 {% endcapture %}
