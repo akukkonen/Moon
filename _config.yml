@@ -1,6 +1,6 @@
 # Site
 title:              Arttu Kukkonen - portfolio
-bio:                I am an aspiring UI and UX designer who is currently studying in Tampere University of Technology. This is my portfolio.
+bio:                I am an aspiring UI and UX designer who is finishing his studies in Tampere University. This is my portfolio.
 description:        The portfolio of Arttu Kukkonen
 reading_time:       false
 
@@ -39,7 +39,7 @@ disqus_shortname:
 #bing-verify:
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          arttukukkonen
-email:             arttu.kukkonen@student.tut.fi
+email:             arttu.kukkonen@tuni.fi
 #github-url:         akukkonen
 #facebook:           arttu.kukkonen
 #twitter:            kukk0nen
