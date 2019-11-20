@@ -10,7 +10,7 @@ tag:
 comments: false
 ---
 
-<center>I made these posters to promote my guild's case competition named Case Fakto in the years 2018 and 2019. Made with Adobe Photoshop.</center>
+<center>I made these posters to promote my guild's case competition named Case Fakto in the years 2017 and 2018. Made with Adobe Photoshop.</center>
 
 {% capture images %}
 	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Case_Fakto_poster_2018.png
