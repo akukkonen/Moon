@@ -17,7 +17,7 @@ My tools of the trade are:
 
 You can check out my CV for further information:
 {% capture images %}
-	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Arttu_Kukkonen_CV.png
+	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/CV.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}   
 
