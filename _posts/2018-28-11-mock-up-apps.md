@@ -14,7 +14,7 @@ comments: false
 <center> I made this mock up app for my Software Business course. Our group made up an app where people could rent and put up for rent their formal wear. Made with Adobe XD. </center>
 {% capture images %}
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear.png
-  https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear.png
+  https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear2.png
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 {% capture images %}
