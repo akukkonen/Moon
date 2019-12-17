@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Case Fakto
-date:   2019-01-01
+date:   2018-12-01
 excerpt: "Posters for my guild's case competition named Case Fakto."
 project: true
 tag:
