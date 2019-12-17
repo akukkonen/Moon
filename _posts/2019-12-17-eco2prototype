@@ -1,0 +1,48 @@
+---
+layout: post
+title:  eCO2 Prototype
+date:   2018-11-28
+excerpt: "A prototype app that promotes sustainable transportation."
+project: true
+tag:
+- prototype
+- adobe xd
+comments: false
+---
+
+<center> I made this prototype for my  User Interface Design course. Made with Adobe XD. </center>
+{% capture images %}
+  https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2startmenu.png
+  https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2login.png
+  https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2createacc.png
+{% endcapture %}
+{% include gallery images=images cols=3 %}
+{% capture images %}
+  https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2emission.png
+  https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2emission2.png
+  https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2stat.png
+{% endcapture %}
+{% include gallery images=images cols=3 %}
+
+---
+
+<center>One of the UIs I made for the course Introduction to Software Engineering. In the app users can search for tram schedules. Made with Adobe Photoshop.</center>
+
+{% capture images %}
+	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Metro_UI.png
+	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Metro_UI_2.png
+	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Metro_UI_3.png
+{% endcapture %}
+{% include gallery images=images caption="Tram schedule app" cols=3 %}   
+
+---
+
+<center>Another UI I made for the course Introduction to Software Engineering. In the app users can search for parking places on different campuses located in Tampere. Made with Adobe Photoshop.</center>
+
+{% capture images %}
+	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Parkkeeraa_ny.png
+	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Parkkeeraa_ny2.png
+	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Parkkeeraa_ny3.png
+{% endcapture %}
+{% include gallery images=images caption="Parking space search app" cols=3 %}   
+
