@@ -10,7 +10,7 @@ tag:
 comments: false
 ---
 
-<center> I made this prototype for my  User Interface Design course. Made with Adobe XD. </center>
+<center> I made this prototype for my  User Interface Design course, where we were tasked with coming up with an app that would promote sustainable transportation and design a user interface for it. Made with Adobe XD. </center>
 {% capture images %}
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2startmenu.png
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2login.png
