@@ -17,12 +17,24 @@ comments: false
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2createacc.png
 {% endcapture %}
 {% include gallery images=images cols=3 %}
+Here are
+
+
 {% capture images %}
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2emission.png
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2emission2.png
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2stat.png
 {% endcapture %}
 {% include gallery images=images cols=3 %}
+
+{% capture images %}
+  https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2maps.png
+  https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2maps2.png
+  https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2settings.png
+{% endcapture %}
+{% include gallery images=images cols=3 %}
+
+
 
 --- 
 
