@@ -15,7 +15,7 @@ My tools of the trade are:
 * Adobe XD
 * Adobe Indesign
 
-You can check out my CV for further information:
+For further information about me you can visit my [Linkedin page](http://www.linkedin.com/in/arttukukkonen) or check out my CV  :
 {% capture images %}
 	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/CV.png
 {% endcapture %}
