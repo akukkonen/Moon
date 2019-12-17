@@ -14,7 +14,7 @@ comments: false
 <center> I made this mock up app for my Software Business course. Our group made up an app where people could rent and put up for rent their formal wear. Made with Adobe XD. </center>
 {% capture images %}
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear.png
-  https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear2.png
+  https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Wearbear.png
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 {% capture images %}
@@ -26,7 +26,9 @@ comments: false
 
 ---
 
-<center>One of the UIs I made for the course Introduction to Software Engineering. In the app users can search for tram schedules. Made with Adobe Photoshop.</center>
+<center>These mockups are older than the two prototypes in my portfolio, so please forgive me for their appearance. 
+    
+Below is one of the UIs I made for the course Introduction to Software Engineering. In the app users can search for tram schedules. Made with Adobe Photoshop.</center>
 
 {% capture images %}
 	https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/Metro_UI.png
