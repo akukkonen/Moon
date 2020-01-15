@@ -11,8 +11,8 @@ comments: false
 I'm finishing my studies in Tampere University where I study Information and Knowledge Management. I'm interested in UI and UX design and would love to work in that field in the future. I have a fair amount of experience from personal projects and I have done plenty of design work (posters, Facebook event cover photos, brochures) for different student organisations and events at my university. I have also designed a couple of UI prototypes for software engineering  courses during my studies and completed a Udemy online course about UI design, which further indicates my interest in the subject. I have worked on my UX skills in a Demola project, where we created a concept answer for a company. The concept was developed based on our group's user research, prototyping and idea validations.
 
 My tools of the trade are:
-* Adobe Photoshop
 * Adobe XD
+* Adobe Photoshop
 * Adobe Indesign
 
 For further information about me you can visit my [Linkedin page](http://www.linkedin.com/in/arttukukkonen) or check out my CV  :
