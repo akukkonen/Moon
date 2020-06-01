@@ -10,10 +10,14 @@ tag:
 comments: false
 ---
 
-<center> I made this prototype for my  User Interface Design course, where we were tasked with coming up with an app that would promote sustainable transportation and design a user interface for it. This was a group project and we came up with the idea for the application together, but the rest of the prototype was done entirely by me. The idea of the application is to let the user track their carbon footprint that is caused by transportation and show them how much emissions different transportation cause and try to get them to make more eco-friendly choices. 
+I made this prototype for my  User Interface Design course, where we were tasked with coming up with an app that would promote sustainable transportation and design a user interface for it. This was a group project and we came up with the idea for the application together, but the rest of the prototype was done entirely by me. The idea of the application is to let the user track their carbon footprint that is caused by transportation and show them how much emissions different transportation cause and try to get them to make more eco-friendly choices. 
+
+<p>
     
 The thing i enjoyed most in this project was trying different things and seeing what worked. For example the navigation panel was not originally at the bottom, but was moved there after a little benchmarking of different applications. I also enjoyed with trying to create a visually appealing interface from the moodboard our group created, mainly by utilizing the colour green. 
 
+<p>
+    
 Made with Adobe XD. </center>
 {% capture images %}
   https://raw.githubusercontent.com/akukkonen/akukkonen.github.io/master/eco2startmenu.png
